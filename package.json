@@ -1,0 +1,11 @@
+{
+    "name": "dulcet-intl-webpack-plugin",
+    "version": "0.0.3",
+    "author": "NKDuy",
+    "description": "DulcetIntlPlugin for webpack",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/khanhduy1407/dulcet-intl-webpack-plugin.git"
+    }
+}
